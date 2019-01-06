@@ -1,3 +1,7 @@
-binary "https://beam.carthage.com:8443/json/10.0b10A255/KeychainAccess" == 3.1.2
-binary "https://beam.carthage.com:8443/json/10.0b10A255/Hydra" == 1.2.1
-binary "https://beam.carthage.com:8443/json/10.0b10A255/LogWrapperKit" == 1.0.0
+#binary "https://beam.carthage.com:8443/json/10.0b10A255/KeychainAccess" == 3.1.2
+#binary "https://beam.carthage.com:8443/json/10.0b10A255/Hydra" == 1.2.1
+#binary "https://beam.carthage.com:8443/json/10.0b10A255/LogWrapperKit" == 1.0.0
+
+github "https://github.com/kishikawakatsumi/KeychainAccess" ~> 3.1.2
+github "https://github.com/malcommac/Hydra" ~> 1.2.1
+github "https://github.com/RustyKnight/Cadmus" ~> 1.0.5
