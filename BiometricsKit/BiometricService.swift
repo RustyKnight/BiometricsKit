@@ -9,7 +9,7 @@
 import Foundation
 import Hydra
 import KeychainAccess
-import LogWrapperKit
+import Cadmus
 
 public class BiometricService {
 	public static let shared: BiometricService = BiometricService()
