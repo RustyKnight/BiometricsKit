@@ -74,3 +74,4 @@ fastlane/builds
 devices.txt
 PaintCode/*.png
 /bamboo@192.168.10.145
+/BiometricsKit.framework.zip
