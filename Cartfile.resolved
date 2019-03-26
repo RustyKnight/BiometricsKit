@@ -1,0 +1,3 @@
+binary "https://www.kiazenenterprises.org:8443/json/10.2b10E125/Cadmus" "1.0.5"
+binary "https://www.kiazenenterprises.org:8443/json/10.2b10E125/Hydra" "1.2.1"
+binary "https://www.kiazenenterprises.org:8443/json/10.2b10E125/KeychainAccess" "3.1.2"
