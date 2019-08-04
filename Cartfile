@@ -1,3 +1,3 @@
-binary "https://www.kiazenenterprises.org:8443/json/10.2.1b10E1001/KeychainAccess" ~> 3.1.2
-binary "https://www.kiazenenterprises.org:8443/json/10.2.1b10E1001/Hydra" ~> 1.2.1
-binary "https://www.kiazenenterprises.org:8443/json/10.2.1b10E1001/Cadmus" ~> 1.0.5
+binary "https://www.kiazenenterprises.org:8443/json/11.0b11M382q/KeychainAccess" ~> 3.2.1
+binary "https://www.kiazenenterprises.org:8443/json/11.0b11M382q/Hydra" ~> 2.0.3
+binary "https://www.kiazenenterprises.org:8443/json/11.0b11M382q/Cadmus" ~> 1.0.6
