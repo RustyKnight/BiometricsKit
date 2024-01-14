@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "cadmus",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/RustyKnight/Cadmus",
+      "state" : {
+        "revision" : "f2d1d470016ad4e440517e6208c62fc9e3bc066d",
+        "version" : "3.0.0"
+      }
+    },
+    {
+      "identity" : "hydra",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/malcommac/Hydra",
+      "state" : {
+        "revision" : "1d508bc909b1e7c334c1720a4b7d93a5b2d3012a",
+        "version" : "2.0.6"
+      }
+    },
+    {
+      "identity" : "keychainaccess",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kishikawakatsumi/KeychainAccess",
+      "state" : {
+        "branch" : "master",
+        "revision" : "e0c7eebc5a4465a3c4680764f26b7a61f567cdaf"
+      }
+    }
+  ],
+  "version" : 2
+}
